@@ -1,2 +1,2 @@
 # OpenSourceSample
-Test Open Source template repository
+Test Open Source template repository.
